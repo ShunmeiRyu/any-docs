@@ -2,8 +2,6 @@
 
 - oh my zsh
 - powerlevel10k
-- zsh-autosuggestions
-- zsh-syntax-highlighting
 
 ## oh my zsh
 ```
